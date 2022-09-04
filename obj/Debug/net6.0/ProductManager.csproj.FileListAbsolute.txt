@@ -1,0 +1,87 @@
+D:\Ki7\KTHDV\ProductManager\bin\Debug\net6.0\appsettings.Development.json
+D:\Ki7\KTHDV\ProductManager\bin\Debug\net6.0\appsettings.json
+D:\Ki7\KTHDV\ProductManager\bin\Debug\net6.0\ProductManager.staticwebassets.runtime.json
+D:\Ki7\KTHDV\ProductManager\bin\Debug\net6.0\ProductManager.exe
+D:\Ki7\KTHDV\ProductManager\bin\Debug\net6.0\ProductManager.deps.json
+D:\Ki7\KTHDV\ProductManager\bin\Debug\net6.0\ProductManager.runtimeconfig.json
+D:\Ki7\KTHDV\ProductManager\bin\Debug\net6.0\ProductManager.dll
+D:\Ki7\KTHDV\ProductManager\bin\Debug\net6.0\ProductManager.pdb
+D:\Ki7\KTHDV\ProductManager\obj\Debug\net6.0\ProductManager.csproj.AssemblyReference.cache
+D:\Ki7\KTHDV\ProductManager\obj\Debug\net6.0\ProductManager.GeneratedMSBuildEditorConfig.editorconfig
+D:\Ki7\KTHDV\ProductManager\obj\Debug\net6.0\ProductManager.AssemblyInfoInputs.cache
+D:\Ki7\KTHDV\ProductManager\obj\Debug\net6.0\ProductManager.AssemblyInfo.cs
+D:\Ki7\KTHDV\ProductManager\obj\Debug\net6.0\ProductManager.csproj.CoreCompileInputs.cache
+D:\Ki7\KTHDV\ProductManager\obj\Debug\net6.0\ProductManager.MvcApplicationPartsAssemblyInfo.cache
+D:\Ki7\KTHDV\ProductManager\obj\Debug\net6.0\ProductManager.RazorAssemblyInfo.cache
+D:\Ki7\KTHDV\ProductManager\obj\Debug\net6.0\ProductManager.RazorAssemblyInfo.cs
+D:\Ki7\KTHDV\ProductManager\obj\Debug\net6.0\staticwebassets.build.json
+D:\Ki7\KTHDV\ProductManager\obj\Debug\net6.0\staticwebassets.development.json
+D:\Ki7\KTHDV\ProductManager\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+D:\Ki7\KTHDV\ProductManager\obj\Debug\net6.0\scopedcss\bundle\ProductManager.styles.css
+D:\Ki7\KTHDV\ProductManager\obj\Debug\net6.0\scopedcss\projectbundle\ProductManager.bundle.scp.css
+D:\Ki7\KTHDV\ProductManager\obj\Debug\net6.0\ProductManager.dll
+D:\Ki7\KTHDV\ProductManager\obj\Debug\net6.0\refint\ProductManager.dll
+D:\Ki7\KTHDV\ProductManager\obj\Debug\net6.0\ProductManager.pdb
+D:\Ki7\KTHDV\ProductManager\obj\Debug\net6.0\ProductManager.genruntimeconfig.cache
+D:\Ki7\KTHDV\ProductManager\obj\Debug\net6.0\ref\ProductManager.dll
+D:\Tai lieu BK\Hoc ki 7\ASP .net\ProductManager\bin\Debug\net6.0\appsettings.Development.json
+D:\Tai lieu BK\Hoc ki 7\ASP .net\ProductManager\bin\Debug\net6.0\appsettings.json
+D:\Tai lieu BK\Hoc ki 7\ASP .net\ProductManager\bin\Debug\net6.0\ProductManager.staticwebassets.runtime.json
+D:\Tai lieu BK\Hoc ki 7\ASP .net\ProductManager\bin\Debug\net6.0\ProductManager.exe
+D:\Tai lieu BK\Hoc ki 7\ASP .net\ProductManager\bin\Debug\net6.0\ProductManager.deps.json
+D:\Tai lieu BK\Hoc ki 7\ASP .net\ProductManager\bin\Debug\net6.0\ProductManager.runtimeconfig.json
+D:\Tai lieu BK\Hoc ki 7\ASP .net\ProductManager\bin\Debug\net6.0\ProductManager.dll
+D:\Tai lieu BK\Hoc ki 7\ASP .net\ProductManager\bin\Debug\net6.0\ProductManager.pdb
+D:\Tai lieu BK\Hoc ki 7\ASP .net\ProductManager\bin\Debug\net6.0\Humanizer.dll
+D:\Tai lieu BK\Hoc ki 7\ASP .net\ProductManager\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+D:\Tai lieu BK\Hoc ki 7\ASP .net\ProductManager\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+D:\Tai lieu BK\Hoc ki 7\ASP .net\ProductManager\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Tai lieu BK\Hoc ki 7\ASP .net\ProductManager\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\Tai lieu BK\Hoc ki 7\ASP .net\ProductManager\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Tai lieu BK\Hoc ki 7\ASP .net\ProductManager\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\Tai lieu BK\Hoc ki 7\ASP .net\ProductManager\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+D:\Tai lieu BK\Hoc ki 7\ASP .net\ProductManager\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+D:\Tai lieu BK\Hoc ki 7\ASP .net\ProductManager\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Tai lieu BK\Hoc ki 7\ASP .net\ProductManager\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+D:\Tai lieu BK\Hoc ki 7\ASP .net\ProductManager\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+D:\Tai lieu BK\Hoc ki 7\ASP .net\ProductManager\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Tai lieu BK\Hoc ki 7\ASP .net\ProductManager\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+D:\Tai lieu BK\Hoc ki 7\ASP .net\ProductManager\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\Tai lieu BK\Hoc ki 7\ASP .net\ProductManager\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+D:\Tai lieu BK\Hoc ki 7\ASP .net\ProductManager\bin\Debug\net6.0\System.Drawing.Common.dll
+D:\Tai lieu BK\Hoc ki 7\ASP .net\ProductManager\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+D:\Tai lieu BK\Hoc ki 7\ASP .net\ProductManager\bin\Debug\net6.0\System.Runtime.Caching.dll
+D:\Tai lieu BK\Hoc ki 7\ASP .net\ProductManager\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\Tai lieu BK\Hoc ki 7\ASP .net\ProductManager\bin\Debug\net6.0\System.Security.Permissions.dll
+D:\Tai lieu BK\Hoc ki 7\ASP .net\ProductManager\bin\Debug\net6.0\System.Windows.Extensions.dll
+D:\Tai lieu BK\Hoc ki 7\ASP .net\ProductManager\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Tai lieu BK\Hoc ki 7\ASP .net\ProductManager\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Tai lieu BK\Hoc ki 7\ASP .net\ProductManager\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Tai lieu BK\Hoc ki 7\ASP .net\ProductManager\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Tai lieu BK\Hoc ki 7\ASP .net\ProductManager\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Tai lieu BK\Hoc ki 7\ASP .net\ProductManager\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Tai lieu BK\Hoc ki 7\ASP .net\ProductManager\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+D:\Tai lieu BK\Hoc ki 7\ASP .net\ProductManager\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\Tai lieu BK\Hoc ki 7\ASP .net\ProductManager\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\Tai lieu BK\Hoc ki 7\ASP .net\ProductManager\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\Tai lieu BK\Hoc ki 7\ASP .net\ProductManager\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\Tai lieu BK\Hoc ki 7\ASP .net\ProductManager\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+D:\Tai lieu BK\Hoc ki 7\ASP .net\ProductManager\obj\Debug\net6.0\ProductManager.csproj.AssemblyReference.cache
+D:\Tai lieu BK\Hoc ki 7\ASP .net\ProductManager\obj\Debug\net6.0\ProductManager.GeneratedMSBuildEditorConfig.editorconfig
+D:\Tai lieu BK\Hoc ki 7\ASP .net\ProductManager\obj\Debug\net6.0\ProductManager.AssemblyInfoInputs.cache
+D:\Tai lieu BK\Hoc ki 7\ASP .net\ProductManager\obj\Debug\net6.0\ProductManager.AssemblyInfo.cs
+D:\Tai lieu BK\Hoc ki 7\ASP .net\ProductManager\obj\Debug\net6.0\ProductManager.csproj.CoreCompileInputs.cache
+D:\Tai lieu BK\Hoc ki 7\ASP .net\ProductManager\obj\Debug\net6.0\ProductManager.MvcApplicationPartsAssemblyInfo.cache
+D:\Tai lieu BK\Hoc ki 7\ASP .net\ProductManager\obj\Debug\net6.0\ProductManager.RazorAssemblyInfo.cache
+D:\Tai lieu BK\Hoc ki 7\ASP .net\ProductManager\obj\Debug\net6.0\ProductManager.RazorAssemblyInfo.cs
+D:\Tai lieu BK\Hoc ki 7\ASP .net\ProductManager\obj\Debug\net6.0\staticwebassets.build.json
+D:\Tai lieu BK\Hoc ki 7\ASP .net\ProductManager\obj\Debug\net6.0\staticwebassets.development.json
+D:\Tai lieu BK\Hoc ki 7\ASP .net\ProductManager\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+D:\Tai lieu BK\Hoc ki 7\ASP .net\ProductManager\obj\Debug\net6.0\scopedcss\bundle\ProductManager.styles.css
+D:\Tai lieu BK\Hoc ki 7\ASP .net\ProductManager\obj\Debug\net6.0\scopedcss\projectbundle\ProductManager.bundle.scp.css
+D:\Tai lieu BK\Hoc ki 7\ASP .net\ProductManager\obj\Debug\net6.0\ProductManager.csproj.CopyComplete
+D:\Tai lieu BK\Hoc ki 7\ASP .net\ProductManager\obj\Debug\net6.0\ProductManager.dll
+D:\Tai lieu BK\Hoc ki 7\ASP .net\ProductManager\obj\Debug\net6.0\refint\ProductManager.dll
+D:\Tai lieu BK\Hoc ki 7\ASP .net\ProductManager\obj\Debug\net6.0\ProductManager.pdb
+D:\Tai lieu BK\Hoc ki 7\ASP .net\ProductManager\obj\Debug\net6.0\ProductManager.genruntimeconfig.cache
+D:\Tai lieu BK\Hoc ki 7\ASP .net\ProductManager\obj\Debug\net6.0\ref\ProductManager.dll
